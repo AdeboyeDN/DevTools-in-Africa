@@ -21,16 +21,37 @@
   <tr>
     <th>Name</th>
     <th>Description</th>
-    <th>Creator</th>
-    <th>Type</th>
+    <th>Founders</th>
+    <th>Funding Round</th>
     <th>Link</th>
   </tr>
   <tr>
-    <td>devops-exercises</td>
-    <td>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions.</td>
-    <td><a href="https://github.com/bregman-arie">Arie Bregman</a></td>
-    <td>Free</td>
-    <td><a href="https://github.com/bregman-arie/devops-exercises">Click</a></td>
+    <td>Convoy</td>
+    <td>Open-source Webhooks Gateway for Efficient Engineers</td>
+    <td><a href="https://github.com/bregman-arie">Null</a></td>
+    <td>Unknown</td>
+    <td><a href="https://getconvoy.io/">Click</a></td>
+  </tr>
+  <tr>
+    <td>PipeOps</td>
+    <td>No-code Tool for Cloud Deployments & Infrastructure Management.</td>
+    <td><a href="https://github.com/bregman-arie">Null</a></td>
+    <td>Unknown</td>
+    <td><a href="https://pipeops.io/">Click</a></td>
+  </tr>
+  <tr>
+    <td>Clouddley</td>
+    <td>The next-generation Cloud Platform.</td>
+    <td><a href="https://github.com/bregman-arie">Null</a></td>
+    <td>Unknown</td>
+    <td><a href="https://getconvoy.io/">Click</a></td>
+  </tr>
+  <tr>
+    <td>APIToolkit</td>
+    <td>The API Developer'sToolbox!</td>
+    <td><a href="https://github.com/bregman-arie">Null</a></td>
+    <td>Unknown</td>
+    <td><a href="https://APIToolkit.io/">Click</a></td>
   </tr>
 </table>
 
