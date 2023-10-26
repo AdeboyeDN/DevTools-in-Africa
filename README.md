@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 align="center">DevOps Resources💡</h1>
+<h1 align="center">DevTools in Africa💡</h1>
 
 <p align="center">
   <a href="#General">General</a>&#183;
