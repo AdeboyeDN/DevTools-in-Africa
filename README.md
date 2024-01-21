@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <h1 align="center">DevTools in Africa💡</h1>
 
 <p align="center">
@@ -15,45 +12,15 @@
 
 <!-- General -->
 
-<h2 id="General" align="center">General</h2>
+## General
 
-<table align="center">
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-    <th>Founders</th>
-    <th>Funding Round</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Convoy</td>
-    <td>Open-source Webhooks Gateway for Efficient Engineers</td>
-    <td><a href="https://github.com/bregman-arie">Null</a></td>
-    <td>Unknown</td>
-    <td><a href="https://getconvoy.io/">Click</a></td>
-  </tr>
-  <tr>
-    <td>PipeOps</td>
-    <td>No-code Tool for Cloud Deployments & Infrastructure Management.</td>
-    <td><a href="https://github.com/bregman-arie">Null</a></td>
-    <td>Unknown</td>
-    <td><a href="https://pipeops.io/">Click</a></td>
-  </tr>
-  <tr>
-    <td>Clouddley</td>
-    <td>The next-generation Cloud Platform.</td>
-    <td><a href="https://github.com/bregman-arie">Null</a></td>
-    <td>Unknown</td>
-    <td><a href="https://getconvoy.io/">Click</a></td>
-  </tr>
-  <tr>
-    <td>APIToolkit</td>
-    <td>The API Developer'sToolbox!</td>
-    <td><a href="https://github.com/bregman-arie">Null</a></td>
-    <td>Unknown</td>
-    <td><a href="https://APIToolkit.io/">Click</a></td>
-  </tr>
-</table>
-
-</body>
-</html>
+| Name       | Description                                          | Founders                                                             | Funding Round | Link |
+| --------   | ---------------------------------------------------- | -------------------------------------------------------------------- | ------------- | ---- |
+| Convoy     | Open-source Webhooks Gateway for Efficient Engineers | [Subomi Oluwalana](https://www.linkedin.com/in/subomi-oluwalana-one) |  Unknown      | [Click](https://getconvoy.io/) |
+| PiepOps    | No-code Tool for Cloude Deployments & Infrastructure Management | [Null](#)                                                     | Unknown       | [Click](https://pipeops.io) |
+| Clouddley  | The next-generation Cloud Platform. | [Null](https://github.com/bregman-arie) | Unknown | [Click](https://clouddley.com)       |
+| APIToolkit | The API Developer's Toolbox!        | [Null](https://github.com/bregman-arie) | Unknown | [Click](https://apitoolkit.io/)      |
+| Brimble    | Deploy websites, faster             | [David Muritala](https://www.linkedin.com/posts/muritala-david-ab8019189), [Abraham Ugbeshe](https://klef.dev/)   | Unknown | [Click](https://brimble.io) |
+| Gitsecure  | Security for Developers             | [Daniel Adeboye](#), [Taiwo Karim](#)   | Unknown | [Click](htps://gitsecure.dev) |
+| IdentityPass | Compliance and security infrastructure for Emerging Markets | [Null](#) | Unknown | [Click](https://myidentitypass.com) |
+| vetaCloud  | vetaCloud is a cloud service that allows developers to upload files (images, videos, documents) safely and seamlessly! | [Null](#) | Unknown | [Click](vetacloud.com) |
