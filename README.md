@@ -16,7 +16,7 @@
 
 | Name       | Description                                          | Founders                                                             | Funding Round | Link |
 | --------   | ---------------------------------------------------- | -------------------------------------------------------------------- | ------------- | ---- |
-| Gitsecure  | AI-powered developer security platform for modern teams. | [Daniel Adeboye](https://www.linkedin.com/in/adeboyedn/), [Taiwo Karim](https://www.linkedin.com/in/taiwokrm/)   | Unknown | [Click](https://gitsecure.dev) |
+| Gitsecure  | AI-powered developer security platform for modern teams. | [Daniel Adeboye](https://www.linkedin.com/in/adeboyedn/), [Taiwo Kareem](https://www.linkedin.com/in/taiwokrm/)   | Unknown | [Click](https://gitsecure.dev) |
 | Convoy     | Open-source Webhooks Gateway for Efficient Engineers | [Subomi Oluwalana](https://www.linkedin.com/in/subomi-oluwalana-one) |  Pre-Seed      | [Click](https://getconvoy.io/) |
 | PiepOps    | No-code Tool for Cloud Deployments & Infrastructure Management | [Samuel Ogbonyomi](https://twitter.com/The_PixelBender), [Alex Idowu](https://twitter.com/nitrocode), [Taye Joseph](https://twitter.com/TayeOdunfa)                                                   | Seed       | [Click](https://pipeops.io) |
 | Clouddley  | The next-generation Cloud Platform. | [Obinna Odirionye](https://twitter.com/odirionyeo) | Unknown | [Click](https://clouddley.com)       |
